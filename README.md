@@ -2,12 +2,14 @@
 
 ![Email](https://img.shields.io/badge/-iungertime.github.io-lightgrey?style=for-the-badge&)
 
-I am a senior in Software Engineering at Oregon Institute of Technology. My graduation date is June 2021! As a student, and on my own, I have had the opportunity to learn a broad spectrum of skills and I am looking forward to using those skills to create industrial solutions. Currently, I am interested in developing technologies like automated driving, working with defense contractor technologies such as drones, medical technologies such as bionics are also remarkably interesting to me. Overall, I want my career to make a difference. In addition to my technological interests, I continuously learn new hobbies and adapt them into my life. Hobbies such as: snowboarding, rock-climbing, skydiving, wood working, drawing, and learning new languages.
+I am a Sofware Engineering Manager at Buildable. Graduated in Software Engineering at Oregon Institute of Technology in June of 2021. I have had the opportunity to learn a broad spectrum of skills and apply them to industrial solutions. I used an agile process to develop, and maintain products.
 
-#### ⌨ Working on...
+Currently, I am interested in developing technologies like automated driving, working with defense contractor technologies such as drones, medical technologies such as bionics are also remarkably interesting to me. Overall, I seek to make a difference. In addition to my technological interests, I continuously learn new hobbies and adapt them into my life. For example: snowboarding, rock-climbing, skydiving, wood working, drawing, and learning new languages.
 
-Chicken Tinder - Accessible at mychickentinder.com
-My senior project built with Vue.js that enables a group of friends to find, and agree on, food near them!
+#### ⌨ Personally working on...
+
+Dyne - Coming Soon!
+Want to find a restaurant compatible with your entire group? Create a lobby on Dyne, and swipe on restaurants near your location.
 
 ![Stats](https://github-readme-stats.vercel.app/api/?username=iUngerTime&show_icons=true)
 
