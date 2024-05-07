@@ -6,6 +6,8 @@ I am a Sofware Engineering Manager at Buildable. Graduated in Software Engineeri
 
 Currently, I am interested in developing technologies like automated driving, working with defense contractor technologies such as drones, medical technologies such as bionics are also remarkably interesting to me. Overall, I seek to make a difference. In addition to my technological interests, I continuously learn new hobbies and adapt them into my life. For example: snowboarding, rock-climbing, skydiving, wood working, drawing, and learning new languages.
 
+<a href="https://app.daily.dev/iungertime"><img src="https://api.daily.dev/devcards/v2/iaixq7sZfCcmdxo5xnKa8.png?r=fbc&type=wide" width="652" alt="Brenton Unger's Dev Card"/></a>
+
 #### ⌨ Personally working on...
 
 Dyne - Coming Soon!
